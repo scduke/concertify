@@ -3,6 +3,8 @@ import SpotifyButton from './SpotifyButton';
 import $ from 'jquery';
 import qs from 'qs'
 
+// Pivot the app to do base functionality, but also tofind users music cities
+
 class App extends Component {
 
     constructor(){
